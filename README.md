@@ -45,3 +45,12 @@ Fortement conseillé sur des projets relativement grand ou avec beaucoup de proc
 ### Desgin
 
 Template du site (en js vanilla) : https://github.com/tailwindtoolbox/Landing-Page
+
+-  github pages
+-  github action: lorsque on push sur master -> sa push sur page
+
+
+- CI (github action)
+- Netlify (pour le deploiement)
+- storybook (test pour personne non dev)
+- chromatic (snapshot, comparaison de screen)
